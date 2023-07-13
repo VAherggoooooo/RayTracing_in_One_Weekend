@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7_Antialiasing", "7_Antiali
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8_ASimpleDiffuseMat", "8_ASimpleDiffuseMat\8_ASimpleDiffuseMat.vcxproj", "{8DC199B2-6CD5-4723-AC86-61F1001790C2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9_Metal", "9_Metal\9_Metal.vcxproj", "{D295F3A4-EA35-4681-88C4-7FD2DD313A83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{8DC199B2-6CD5-4723-AC86-61F1001790C2}.Release|x64.Build.0 = Release|x64
 		{8DC199B2-6CD5-4723-AC86-61F1001790C2}.Release|x86.ActiveCfg = Release|Win32
 		{8DC199B2-6CD5-4723-AC86-61F1001790C2}.Release|x86.Build.0 = Release|Win32
+		{D295F3A4-EA35-4681-88C4-7FD2DD313A83}.Debug|x64.ActiveCfg = Debug|x64
+		{D295F3A4-EA35-4681-88C4-7FD2DD313A83}.Debug|x64.Build.0 = Debug|x64
+		{D295F3A4-EA35-4681-88C4-7FD2DD313A83}.Debug|x86.ActiveCfg = Debug|Win32
+		{D295F3A4-EA35-4681-88C4-7FD2DD313A83}.Debug|x86.Build.0 = Debug|Win32
+		{D295F3A4-EA35-4681-88C4-7FD2DD313A83}.Release|x64.ActiveCfg = Release|x64
+		{D295F3A4-EA35-4681-88C4-7FD2DD313A83}.Release|x64.Build.0 = Release|x64
+		{D295F3A4-EA35-4681-88C4-7FD2DD313A83}.Release|x86.ActiveCfg = Release|Win32
+		{D295F3A4-EA35-4681-88C4-7FD2DD313A83}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
