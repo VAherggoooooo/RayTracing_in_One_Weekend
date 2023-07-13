@@ -1,6 +1,8 @@
-
+#how to write .gitignore?: https://blog.csdn.net/Gease_Gg/article/details/102614819
 */.vs
 */x64
 */x86
 */Debug
-*/Output_an_Image/x64
+
+*/RayTracing/Debug
+*/2_Output_an_Image/Debug

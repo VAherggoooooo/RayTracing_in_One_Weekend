@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e4cd4fa5-f695-41d1-a027-9d45a8b01380}</ProjectGuid>
-    <RootNamespace>OutputanImage</RootNamespace>
+    <ProjectGuid>{3d7cdd90-bf53-465c-806c-b3f80ba0a707}</ProjectGuid>
+    <RootNamespace>My2OutputanImage</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
