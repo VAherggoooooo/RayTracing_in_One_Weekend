@@ -1,0 +1,4 @@
+#示例
+F:
+cd F:\RayTracing_in_One_Weekend\RayTracing\x64\Debug
+3_The_Vec3_Class.exe>../../Output/TheVec3Class.ppm
